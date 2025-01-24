@@ -7,7 +7,7 @@ BCC Freepass is an integral part of the BCC open recruitment process, specifical
 ## 💪 Challenge 
 To successfully pass the Free Pass selection, participants must complete one of the specified challenges accurately and in accordance with the required criteria for the chosen category: Web Development or Multi-Platform Development.
 
-### 🌐🖥️ Web Challenge 
+## 🌐🖥️ Web Challenge 
 Make a web application with the following specifications:
 - Use a framework or library for building the web application, preferably React.
 - Implement API calls for the following operations: POST, GET, DELETE, and PUT.
@@ -33,7 +33,7 @@ Make a web application with the following specifications:
 * Using semantic HTML
 * Implement Modern State Management (Zustand)
 
-### 🌐📱 Mobile Challenge (Flutter)
+## 🌐📱 Mobile Challenge (Flutter)
 Make an application with requirements as below:
 - Application should perform CRUD operations (Create, Read, Update, Delete).
 - Implement Local Storage.
@@ -56,7 +56,7 @@ Make an application with requirements as below:
 4. Make changes, commit them, and push the branch to your repository fork.
 5. [Submit a pull request](https://help.github.com/articles/using-pull-requests) to the main branch.
 6. Don't forget to leave your identity such as name and NIM in your Pull Request
-7. After submit Pull Request, please fill your identity at this [form](). We will contact you ASAP for the interview session
+7. After submit Pull Request, please fill your identity at this [form](https://clips.id/FormFreePass-FE-BCC2025). We will contact you ASAP for the interview session
 
 ## 📝 Submission Convention
 1. Project submitted must be your own work.
@@ -72,5 +72,6 @@ Make an application with requirements as below:
 <br/>
 <br/>
 It’s all up to you now! If you have any questions, feel free to reach out using the contact details above. And remember, this isn’t the only way to join us—good luck, give it your best shot!
+<br/>
 <br/>
 ~ FE BCC 2025
