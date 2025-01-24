@@ -7,7 +7,7 @@ BCC Freepass is an integral part of the BCC open recruitment process, specifical
 ## 💪 Challenge 
 To successfully pass the Free Pass selection, participants must complete one of the specified challenges accurately and in accordance with the required criteria for the chosen category: Web Development or Multi-Platform Development.
 
-## 🌐🖥️ Web Challenge 
+### 🌐🖥️ Web Challenge 
 Make a web application with the following specifications:
 - Use a framework or library for building the web application, preferably React.
 - Implement API calls for the following operations: POST, GET, DELETE, and PUT.
@@ -33,7 +33,7 @@ Make a web application with the following specifications:
 * Using semantic HTML
 * Implement Modern State Management (Zustand)
 
-## 🌐📱 Mobile Challenge (Flutter)
+### 🌐📱 Mobile Challenge (Flutter)
 Make an application with requirements as below:
 - Application should perform CRUD operations (Create, Read, Update, Delete).
 - Implement Local Storage.
