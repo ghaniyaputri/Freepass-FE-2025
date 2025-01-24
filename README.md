@@ -12,7 +12,7 @@ Make a web application with the following specifications:
 - Use a framework or library for building the web application, preferably React.
 - Implement API calls for the following operations: POST, GET, DELETE, and PUT.
     - For the API you may choose to use: 
-    A [public API(https://github.com/public-apis/public-apis)] available online. Or create your own API (using tools like Node.js, Express, Flask, etc.), it doesn't affect our scoring. The key factor in evaluation is how you handle the given data, so keep that in mind while working
+    A [public API](https://github.com/public-apis/public-apis) available online. Or create your own API (using tools like Node.js, Express, Flask, etc.), it doesn't affect our scoring. The key factor in evaluation is how you handle the given data, so keep that in mind while working
 - Implement a state management
 - Implement error handling
 - Design **should be** responsive for all device (Desktop, Tablet, Handphone)
