@@ -11,7 +11,6 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        {/* Wrap all routes inside the Layout to apply Navbar and Footer to each */}
         <Route>
           <Route path="/" element={<Welcome />} />
           <Route path="/store" element={<Store />} />
